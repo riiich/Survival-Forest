@@ -61,6 +61,20 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Game Assets
+/Assets/Audio/
+/Assets/Character_Model
+/Assets/Animations
+/Assets/Fantasy Forest Environment Free Sample
+/Assets/HorrorWeaponSet1
+/Assets/JP Environmental Asset Pack
+/Assets/Materials
+/Assets/PBRMeleeWeaponsPack
+/Assets/Monster Models
+/Assets/Prefabs
+/Assets/Miscellaneous
+/Assets/Input
+
 # Crashlytics generated file
 crashlytics-build.properties
 
